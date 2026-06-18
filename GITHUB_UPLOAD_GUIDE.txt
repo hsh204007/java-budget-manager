@@ -1,0 +1,5 @@
+GitHub 업로드 방법
+1. GitHub에서 java-budget-manager 이름의 새 저장소를 만든다.
+2. 이 폴더의 README.md, src 폴더, data 폴더를 업로드한다.
+3. 보고서의 GitHub link가 실제 저장소 주소와 맞는지 확인한다.
+4. LearningX에는 report/final_report.pdf 파일을 제출한다.
